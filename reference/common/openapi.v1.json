@@ -4,9 +4,7 @@
     "title": "Zubarus API",
     "version": "3.0.0",
     "description": "v3",
-    "contact": {
-      "name": "foo"
-    }
+    "contact": {}
   },
   "servers": [
     {
